@@ -1,0 +1,1 @@
+FROM hacia/loganalytica:us
